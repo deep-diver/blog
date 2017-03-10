@@ -5,7 +5,7 @@ title: Hello World
 
 My name is Chansung.
 
-'''java
+```java
 String str = "Hello World!";
 System.out.println(str)
-'''
+```
